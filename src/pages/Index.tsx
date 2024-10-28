@@ -5,7 +5,7 @@ const Index = () => {
     <div className="min-h-screen bg-primary py-12 px-4">
       <div className="max-w-4xl mx-auto bg-secondary rounded-lg shadow-lg p-8">
         <h1 className="text-2xl font-bold text-center mb-4">お問い合わせ</h1>
-        <div className="text-sm text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
+        <div className="text-sm text-gray-600 mb-8 max-w-[35rem] mx-auto leading-relaxed">
           <p className="mb-4">
             PTA会員向けサイトに関するご意見・ご要望・ご質問等をお送りいただく際は、以下のお問い合わせフォームをご利用ください。
             お問い合わせ内容につきましては、できるだけ具体的な記述をお願い申し上げます。
